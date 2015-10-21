@@ -1,0 +1,12 @@
+{
+  "title": "SimpleTabName",
+  "name": "stabname",
+  "version": "0.0.1",
+  "description": "A addon to modify tab name",
+  "main": "index.js",
+  "author": "CHY",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
